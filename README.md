@@ -23,192 +23,142 @@ SOCIAL:
 Historical excursion and Group study increase students performance in Social. 
 BOYS AND GIRLS PERFORMANCE ACCORDING STATES
 
-  
-
-
-
-
-
-
-		state			
-gender	Mat %	East	North	South	West	ALL
-boy	0-20	2050	2244	2081	1118	7493
-	20-40	6616	7582	6658	4528	25384
-	40-60	1843	1861	896	1040	5640
-
-	60-80	1028	833	306	338	2505
-	80-100	380	231	49	31	691
-girl	0-20	2690	2698	2309	974	8671
-	20-40	7542	7723	7047	3944	26256
-	40-60	2172	1980	1159	1024	6335
-	60-80	1210	967	382	357	2916
-	80-100	351	271	65	30	717
-All		25882	26390	20952	13384	86608
-
-
-
-
-	MATHS
-
-GIRLS PERFORMANCE
-
+ NUMBER OF STUDENTS (BOYS & GIRLS) IN STATE WISE.
+ MORE STUDENTS FROM KERALA STATE.
  
-
+ South=[TN,AP,KA,KL,PY]
+ North=[DL,JK,RJ,HP,PB,UP,CH,HR,UK]
+ East=[MG,MN,BR,MZ,OR,WB,SK,TR,AR,JH,NG]
+ West=[DN,DD,GJ,GA]
  
-BOYS PERFORMANCE:
+ BOYS & GIRLS: MOST OF THE STUDENTS FROM EAST STATES PERFORM WELL IN MATHS.
+COMPARING TO BOYS, GIRLS  PERFORM WELL IN ALL STATES.
 
+Maths:
+South State:49 boys got- 80-100(%)
+North State:231 boys got- 80-100(%)
+East State: 380 boys got- 80-100(%)
+West State:31 boys got- 80-100(%)
 
- 
+Girls:80-100
 
- 
+South State:65 
+North State:271 
+East State:351 
+West State:30 
 
+Science:
+BOYS & GIRLS: MOST OF THE STUDENTS FROM EAST STATES PERFORM WELL IN SCIENCE. 
+COMPARING TO BOYS, GIRLS PERFORM WELL.
 
+Boys:80-100
 
-			state		
-gender	Sci %	East	North	South	West	All
-boy	0-20	1020	1485	1315	462	4282
-	20-40	6227	7480	5995	3775	23477
-	40-60	3030	2757	2091	2172	10050
-	60-80	1075	726	393	627	2821
+South State:40 
+North State:96 
+East State: 165
+West State: 37
 
-	80-100	165	96	40	37	338
-girl	0-20	1468	1659	1318	373	4818
-	20-40	7412	7733	6287	3325	24757
-	40-60	3277	2823	2674	2069	10843
-	60-80	1178	930	465	569	3142
-	80-100	171	127	39	40	377
-All		25023	25816	20617	13449	84905
+Girls:80-100
 
+South State:39 
+North State: 127
+East State: 171
+West State:40
 
+Social:
+BOYS :  MORE STUDENTS FROM SOUTH STATES GOT LOW MARKS 0-20(%)  COMPARING TO NORTH AND EAST STATES.
+          MORE STUDENTS FROM NORTH STATES GOT 80-100 (%) (BOTH BOYS AND GIRLS)
+COMPARE WITH GIRLS, MORE BOYS GOT       80-100(%)
+COMPARING WITH BOYS , IN ALL STATES GIRLS ARE PERFORM WELL.
 
+Boys:80-100
 
-	SCIENCE
+South State:36
+North State:157
+East State: 109
+West State: 22
 
+Girls:80-100
 
-GIRLS PERFORMANCE
+South State:50 
+North State:148 
+East State: 114
+West State:25
 
- 
+Reading:
+BOYS:  NORTH STATES, MORE STUDENTS GOT LOW MARKS IN READING.BOYS FROM EAST STATES PERFORM WELL.
+GIRLS: EAST STATES, MORE STUDENTS GOT LOW MARKS.GIRLS FROM NORTH STATES  PERFORM WELL.ESPECIALLY EAST STATES MORE GIRLS GOT 80-100(%).
+COMPARING WITH BOYS, IN ALL STATES GIRLS ARE PERFORM WELL.
 
- 
+Boys:80-100
 
-BOYS PERFORMANCE
+South State:432
+North State:605
+East State: 725
+West State: 515
 
- 
+Girls:80-100
 
- 
-
-
-
-
-
-
-			state		
-gender	Soc %	East	North	South	West	All
-
-boy	0-20	1041	1068	1240	371	3720
-	20-40	6056	6750	5576	3503	21885
-	40-60	3040	3483	2245	2287	11055
-	60-80	1124	976	481	697	3278
-	80-100	109	157	36	22	324
-girl	0-20	1391	1121	1155	272	3939
-	20-40	7189	6991	5797	2820	22797
-	40-60	3535	3868	2731	2368	12502
-	60-80	1257	1125	703	644	3729
-	80-100	114	148	50	25	337
-All		24856	25687	20014	13009	83566
-	SOCIAL
-
-
-GIRLS PERFORMANCE
- 
-
- 
-
-BOYS PERFORMANCE:
-
- 
-
-
- 
-
-
-
-
-
-
-
-
-			state		
-gender	Read %	East	North	South	West	All
-
-boy	0-20	1598	1709	1565	599	5471
-	20-40	4258	4420	3564	2288	14530
-	40-60	3045	3364	2374	2105	10888
-	60-80	2230	2592	1888	1725	8435
-	80-100	725	605	432	515	2277
-girl	0-20	2124	1784	1387	407	5702
-	20-40	4909	4276	3179	1677	14041
-	40-60	3639	3632	2862	1817	11950
-	60-80	2635	3275	2748	1846	10504
-	80-100	786	740	737	711	2974
-All		25949	26397	20736	13690	86772
-	READING
-
-
-
-
-
-
-
-
-
-
-
-GIRLS PERFORMANCE:
- 
-
-
-
-	 
-BOYS PERFORM ANCE:
-
- 
-
-	 
-
-
-
+South State:737 
+North State: 740
+East State: 786
+West State:711
 
 COMPARISION OF STUDENTS OF SOUTH STATES WITH OTHER STATES AT MATHS AND SCIENCE
-MATHS
-
- 
-SCIENCE
- 
 
 STATE WISE PERFORMANCE AT READING AND SOCIAL:
-READINGS
- 
-SOCIAL
- 
 
 SUBJECT WISE PERFORMANCE
 
+           Comparing all subjects, Reading has leading performance.
+	   
+	   Maths: 1450 students score 80-100 percentage
+	   Social:697 students score 80-100 percentage
+	   Reading:5583 students score 80-100 percentage
+	   Science:763 students score 80-100 percentage
 
 
-STATE WISE PERFORMANCE WITH AVERAGE MARKS:
+
+Result
+	1.	Important Factors of student performance:
+	‘Mother Education and Father Education’ are most import factors of reducing to get low marks in all subjects.
+	Maths:  ‘Private Tuition and Correct Hw’ regularly, gives good performance in students.
+	Reading: ‘Reading other books and using Dictionary habits’ are help to students to improve their performance.
+	Science: ‘Solve science problems and conducting experiments’ are improve students performance
+	Social: ‘Historical excursions, and group study’ are help students to improve their performance.
+2.  Comparing  to Boys , Girls are perform well  in all states.
+	Maths:
+	boys & girls: most of the students from east states perform well in maths.
+	comparing to boys, girls  perform well in all states.
+	science: 
+	boys & girls: most of the students from east states perform well in SCIENCE. 
+	comparing to boys, girls perform well.
+	social: 
+	boys :  more students from south states got low marks 0-20(%)  comparing to north and east states.
+          more students from north states got 80-100 (%) (both boys and girls)
+	compare with girls, more boys got       80-100(%)
+	comparing with boys , in all states girls are perform well.
+	reading:
+ 	boys:  north states, more students got low marks in reading.boys from east states perform well.
+	girls: east states, more students got low marks.girls from north states  perform well.especially east states more girls 	got 80-100(%).
+	comparing with boys, in all states girls are perform well.
+
+
+3. Comparing North and East  States of India, South Indian Performance is not fair. In all subjects, East and north states 	   perform well.
+
+
+
+
+			
+
+
+
  
 
-GENDER WISE PERFORMANCE WITH AVERAGE MARKS:
  
 
 
 
-
-
-
-
-
-
+				
 -------------------------------------------------------
 
